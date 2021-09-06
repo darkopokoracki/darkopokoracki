@@ -3,3 +3,4 @@
 - 🌱 I’m currently Javascript and Git
 - 💞️ I’m looking to collaborate on any front-end project
 - 📫 How to reach me: darkopokoracki@gmail.com
+:computer: 
