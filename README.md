@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkopokoracki" alt="darkopokoracki" /></a> </p>
 
-- 🔭 I’m currently working on **My Events Calendar** Project.
+- 🔭 I’m currently working on **Commune Waitlist Page** and **My Events Calendar** project.
 
 - 🌱 I’m currently learning **Javascript**
 
