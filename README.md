@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkopokoracki" alt="darkopokoracki" /></a> </p>
 
-- 🔭 I’m currently working on **Spense Landing Page**
+- 🔭 I’m currently working on **Commune Waitlist Page** in codewell_challenges repo.
 
 - 🌱 I’m currently learning **Javascript**
 
