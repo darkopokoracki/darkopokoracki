@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Events Calendar** project.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **Vue.js**
 
 - 📫 How to reach me **darkopokoracki@gmail.com**
 
