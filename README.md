@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darko Pokoracki</h1>
 <h3 align="center">Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkopokoracki&label=Profile%20views&color=0e75b6&style=flat" alt="darkopokoracki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkopokoracki" alt="darkopokoracki" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on **My Events Calendar** project.
 
