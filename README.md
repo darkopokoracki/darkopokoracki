@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darko Pokoracki</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 </a> </p>
 
 - 🔭 I’m currently working on **My Events Calendar** project.
