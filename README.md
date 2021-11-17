@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 </a> </p>
 
-- 🔭 I’m currently working on **My Events Calendar** project.
+- 🔭 I’m currently working on **My Events Calendar** and **vue3-10apps** projects.
 
 - 🌱 I’m currently learning **Javascript** and **Vue.js**
 
